@@ -1,0 +1,279 @@
+.this-is-what {
+  position: absolute;
+  top: 0;
+  left: 21px;
+  letter-spacing: 0.02em;
+  line-height: 33.5px;
+  display: inline-block;
+  width: 554px;
+  height: 31px;
+}
+.product-description-child {
+  position: absolute;
+  top: 1px;
+  left: 0;
+  border-radius: 10px;
+  background-color: var(--color-forestgreen);
+  width: 6px;
+  height: 28px;
+}
+.product-description {
+  position: absolute;
+  top: 205px;
+  left: 100px;
+  width: 304px;
+  height: 31px;
+  font-size: var(--font-size-17xl);
+  color: #3c4242;
+}
+.task-baar-child {
+  position: absolute;
+  top: 31px;
+  left: 102px;
+  width: 1237px;
+  height: 45px;
+}
+.task-baar,
+.task-baar-item {
+  position: absolute;
+  top: 0;
+  width: 1440px;
+  height: 108px;
+}
+.task-baar-item {
+  left: calc(50% - 720px);
+  border-bottom: 1px solid #bebcbd;
+  box-sizing: border-box;
+}
+.task-baar {
+  left: 0;
+}
+.shopping-cart-icon1 {
+  position: relative;
+  width: 20px;
+  height: 20px;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: none;
+}
+.button3 {
+  position: relative;
+  font-size: var(--font-size-xl);
+  font-family: var(--font-abhaya-libre);
+  color: var(--color-white);
+  text-align: center;
+}
+.button2 {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-base) var(--padding-xl);
+  background-color: var(--color-forestgreen);
+  position: absolute;
+  top: 164px;
+  right: 101px;
+  border-radius: var(--br-5xs);
+  width: 167px;
+  height: 54px;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-xs);
+}
+.explore2,
+.help2,
+.home2,
+.profile2 {
+  position: absolute;
+  font-weight: 600;
+  text-align: center;
+}
+.home2 {
+  top: 1154px;
+  left: 533px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 72px;
+  height: 36px;
+}
+.explore2,
+.help2,
+.profile2 {
+  top: 1160px;
+  left: 691px;
+}
+.help2,
+.profile2 {
+  left: 867px;
+}
+.profile2 {
+  left: 1019px;
+}
+.output-child {
+  position: absolute;
+  top: 1010px;
+  left: 0;
+  width: 1538px;
+  height: 243px;
+  object-fit: cover;
+}
+.recipes2,
+.winter-salads1 {
+  position: absolute;
+  top: 24px;
+  left: 1px;
+  display: flex;
+  align-items: center;
+  width: 72px;
+  height: 36px;
+}
+.winter-salads1 {
+  top: 53px;
+  width: 126px;
+}
+.beef-and-mutton1,
+.contact-us1,
+.faq1,
+.flavoured-milk1,
+.organic-chicken1 {
+  position: absolute;
+  top: 120px;
+  left: 0;
+  display: flex;
+  align-items: center;
+  width: 144px;
+}
+.contact-us1,
+.faq1,
+.flavoured-milk1,
+.organic-chicken1 {
+  top: 152px;
+  left: 2px;
+}
+.contact-us1,
+.faq1,
+.organic-chicken1 {
+  top: 83px;
+  width: 139px;
+  height: 36px;
+}
+.contact-us1,
+.faq1 {
+  top: 24px;
+  left: 216px;
+  width: 95px;
+}
+.contact-us1 {
+  top: 53px;
+  width: 182px;
+}
+.about-us1,
+.fresh-recipe1 {
+  position: absolute;
+  top: 0;
+  left: 1px;
+  font-size: var(--font-size-xl);
+  font-weight: 500;
+  text-align: center;
+}
+.about-us1 {
+  left: 216px;
+}
+.all-rights-reserved1,
+.recipes-container {
+  position: absolute;
+  color: var(--color-white);
+}
+.recipes-container {
+  top: 1036px;
+  left: 462px;
+  width: 398px;
+  height: 170px;
+  font-size: var(--font-size-mini);
+}
+.all-rights-reserved1 {
+  top: 1143px;
+  left: 89px;
+}
+.images-2-icon1 {
+  top: 1035px;
+  left: 139px;
+  width: 95px;
+  height: 95px;
+}
+.images-1-icon1,
+.images-2-icon1,
+.output-item {
+  position: absolute;
+  object-fit: cover;
+}
+.images-1-icon1 {
+  top: 8px;
+  left: 53px;
+  width: 95px;
+  height: 95px;
+}
+.output-item {
+  top: 18px;
+  right: 64px;
+  width: 75px;
+  height: 75px;
+}
+.output-inner {
+  position: absolute;
+  top: 309px;
+  left: 247px;
+  border-radius: 40px;
+  background-color: var(--color-white);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border: 5px solid var(--color-forestgreen);
+  box-sizing: border-box;
+  width: 947px;
+  height: 551px;
+}
+.gajar-ka-halwa {
+  font-size: var(--font-size-17xl);
+}
+.gajar-ka-halwa-gajar-ka-halw1 {
+  margin-bottom: 0;
+}
+.gajar-ka-halwa-gajar-ka-halw {
+  margin: 0;
+  padding-left: var(--padding-29xl);
+}
+.punjab-which-is {
+  margin: 0;
+}
+.gajar-ka-halwa-container,
+.paneer-biryani-container,
+.samosa-chat-container {
+  position: absolute;
+  top: 375px;
+  left: 284px;
+  letter-spacing: 0.02em;
+  line-height: 33.5px;
+  font-family: var(--font-inherit);
+  color: var(--color-darkslategray-100);
+  font-size: var(--font-size-11xl);
+}
+.paneer-biryani-container,
+.samosa-chat-container {
+  top: 534px;
+  left: 280px;
+}
+.paneer-biryani-container {
+  top: 693px;
+}
+.output {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1253px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-yellowgreen);
+  font-family: var(--font-montserrat);
+}

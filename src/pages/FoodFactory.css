@@ -1,0 +1,820 @@
+.books,
+.community,
+.login,
+.popular,
+.receipe-index {
+  position: absolute;
+  top: 11px;
+  left: 404px;
+  font-size: var(--font-size-3xs);
+  display: flex;
+  color: var(--color-white);
+  align-items: center;
+  justify-content: center;
+  width: 62px;
+}
+.books,
+.community,
+.login,
+.receipe-index {
+  left: 278px;
+  width: 89px;
+}
+.books,
+.community,
+.login {
+  left: 179px;
+  width: 62px;
+}
+.community,
+.login {
+  left: 72px;
+  width: 70px;
+}
+.login {
+  top: 14px;
+  left: 1376px;
+  width: 62px;
+}
+.food-factory-child,
+.food-factory-item {
+  position: absolute;
+  border-radius: var(--br-xl);
+}
+.food-factory-child {
+  top: 66px;
+  left: 370px;
+  background-color: var(--color-white);
+  border: 1px solid var(--color-gainsboro-100);
+  box-sizing: border-box;
+  width: 726px;
+  height: 46px;
+}
+.food-factory-item {
+  top: 67px;
+  left: 371px;
+  background-color: #d0c5c5;
+  width: 211px;
+  height: 44px;
+  opacity: 0.2;
+}
+.all-categories {
+  position: absolute;
+  top: 77px;
+  left: 388px;
+  font-size: var(--font-size-xl);
+  font-weight: 500;
+}
+.add-present-ingredients {
+  position: absolute;
+  top: 705px;
+  left: 460px;
+  font-size: var(--font-size-31xl);
+  font-family: var(--font-montez);
+  color: var(--color-yellowgreen);
+  text-align: left;
+  display: flex;
+  align-items: center;
+  width: 417px;
+  height: 51px;
+}
+.home,
+.search {
+  border: 0;
+  background-color: transparent;
+  font-family: var(--font-montserrat);
+  text-align: center;
+}
+.search {
+  font-size: var(--font-size-xl);
+  position: absolute;
+  top: 77px;
+  left: 612px;
+  font-weight: 700;
+  color: var(--color-gainsboro-100);
+}
+.home {
+  cursor: pointer;
+  padding: 0;
+  top: 631px;
+  left: 531px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 72px;
+  height: 36px;
+}
+.explore,
+.explore1,
+.home,
+.home1 {
+  position: absolute;
+  font-size: var(--font-size-xl);
+  font-weight: 600;
+  color: var(--color-yellowgreen);
+}
+.home1 {
+  top: 1909px;
+  left: 531px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 72px;
+  height: 36px;
+}
+.explore,
+.explore1 {
+  left: 689px;
+}
+.explore {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: 637px;
+  font-family: var(--font-montserrat);
+  text-align: center;
+  display: inline-block;
+}
+.explore1 {
+  top: 1915px;
+}
+.help {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: 637px;
+  left: 865px;
+  font-family: var(--font-montserrat);
+  text-align: center;
+  display: inline-block;
+}
+.help,
+.help1,
+.profile,
+.profile1 {
+  position: absolute;
+  font-size: var(--font-size-xl);
+  font-weight: 600;
+  color: var(--color-yellowgreen);
+}
+.help1 {
+  top: 1915px;
+  left: 865px;
+}
+.profile,
+.profile1 {
+  left: 1017px;
+}
+.profile {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: 637px;
+  font-family: var(--font-montserrat);
+  text-align: center;
+  display: inline-block;
+}
+.profile1 {
+  top: 1915px;
+}
+.food-factory-inner {
+  position: absolute;
+  top: 66px;
+  left: 1052px;
+  border-radius: 50%;
+  background-color: var(--color-gainsboro-100);
+  width: 44px;
+  height: 46px;
+}
+.food-factory-child1,
+.line-icon {
+  position: absolute;
+  top: 615px;
+  left: 455px;
+  width: 725px;
+  height: 3px;
+}
+.food-factory-child1 {
+  top: 679px;
+  left: 454px;
+}
+.div {
+  position: absolute;
+  top: 77px;
+  left: 1064px;
+  font-size: var(--font-size-xl);
+  font-family: var(--font-icofont);
+}
+.rectangle-div {
+  position: absolute;
+  top: 624px;
+  left: 1525px;
+  border-radius: 50px;
+  background-color: var(--color-gainsboro-100);
+  width: 10px;
+  height: 150px;
+}
+.cusine,
+.diet,
+.goals,
+.recipes {
+  position: absolute;
+  color: var(--color-yellowgreen);
+}
+.recipes {
+  top: 0;
+  left: 7px;
+  font-size: var(--font-size-31xl);
+  font-family: var(--font-montez);
+  display: flex;
+  align-items: center;
+  width: 226px;
+  height: 51px;
+}
+.cusine,
+.diet,
+.goals {
+  top: 100px;
+  left: 6px;
+  font-size: var(--font-size-11xl);
+  font-weight: 500;
+}
+.cusine,
+.goals {
+  top: 507px;
+  left: 9px;
+  text-align: center;
+}
+.goals {
+  top: 726px;
+  left: 5px;
+}
+.asian,
+.dairy-free {
+  position: absolute;
+  top: 144px;
+  left: 7px;
+}
+.asian {
+  top: 549px;
+  left: 11px;
+  display: flex;
+  align-items: flex-end;
+  width: 64px;
+  height: 24px;
+}
+.egg-free,
+.weight-loss {
+  position: absolute;
+  top: 770px;
+  left: 5px;
+  color: var(--color-yellowgreen);
+}
+.egg-free {
+  top: 175px;
+  left: 9px;
+}
+.italian {
+  position: absolute;
+  top: 580px;
+  left: 11px;
+  display: flex;
+  align-items: center;
+  width: 91px;
+  height: 24px;
+}
+.freshness {
+  position: absolute;
+  top: 801px;
+  left: 5px;
+}
+.chines,
+.sugar-free {
+  position: absolute;
+  top: 206px;
+  left: 11px;
+}
+.chines {
+  top: 611px;
+  left: 9px;
+}
+.activeness,
+.gluten-free {
+  position: absolute;
+  top: 832px;
+  left: 5px;
+}
+.gluten-free {
+  top: 237px;
+  left: 11px;
+}
+.glutten {
+  position: relative;
+}
+.glutten-parent {
+  position: absolute;
+  top: 344px;
+  left: 11px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 5px;
+  text-align: center;
+}
+.rich-nutritions,
+.thai {
+  position: absolute;
+  top: 642px;
+  left: 9px;
+}
+.rich-nutritions {
+  top: 863px;
+  left: 5px;
+}
+.allergies {
+  position: relative;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 151px;
+  flex-shrink: 0;
+}
+.allergies-wrapper {
+  position: absolute;
+  top: 300px;
+  left: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  text-align: center;
+  font-size: var(--font-size-11xl);
+  color: var(--color-yellowgreen);
+}
+.recipes-parent {
+  position: absolute;
+  top: 618px;
+  left: 107px;
+  width: 233px;
+  height: 887px;
+  text-align: left;
+  font-size: var(--font-size-xl);
+}
+.cropped-pistaciafood-11-1-icon,
+.ellipse-icon {
+  position: absolute;
+  top: 37px;
+  left: 1376px;
+  width: 75px;
+  height: 75px;
+  object-fit: cover;
+}
+.cropped-pistaciafood-11-1-icon {
+  top: 149px;
+  left: 0;
+  width: 1538px;
+  height: 435px;
+}
+.more {
+  position: absolute;
+  top: 383px;
+  left: 212px;
+  font-size: var(--font-size-31xl);
+  font-family: var(--font-mina);
+  color: var(--color-white);
+}
+.food-factory-child2,
+.food-factory-child3 {
+  position: absolute;
+  top: 187px;
+  left: 1474px;
+  background-color: #485cc5;
+  width: 74px;
+  height: 89px;
+}
+.food-factory-child3 {
+  top: 276px;
+  background-color: #f80e0e;
+}
+.food-factory-child4 {
+  top: 365px;
+  background-color: #0ec0f8;
+  width: 74px;
+}
+.facebook-1,
+.food-factory-child4,
+.food-factory-child5 {
+  position: absolute;
+  left: 1474px;
+  height: 89px;
+}
+.food-factory-child5 {
+  top: 454px;
+  background-color: #d50012;
+  width: 74px;
+}
+.facebook-1 {
+  text-decoration: none;
+  top: 188px;
+  width: 63px;
+  background-image: url(/public/facebook-1@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.pinterest-1-icon {
+  position: absolute;
+  top: 457px;
+  left: 1476px;
+  width: 59px;
+  height: 82px;
+  object-fit: cover;
+}
+.twitter-1,
+.youtube-1 {
+  text-decoration: none;
+  position: absolute;
+  top: 277px;
+  left: 1474px;
+  width: 65px;
+  height: 88px;
+  background-image: url(/public/youtube-1@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.twitter-1 {
+  top: 365px;
+  width: 64px;
+  height: 89px;
+  background-image: url(/public/twitter-1@3x.png);
+}
+.meat-chicken-txt-container {
+  line-break: anywhere;
+  width: 100%;
+}
+.meat-chicken {
+  position: absolute;
+  top: 267px;
+  left: -7px;
+  font-size: 60px;
+  color: var(--color-white);
+  display: flex;
+  align-items: center;
+  width: 583px;
+}
+.food-factory-child6 {
+  position: absolute;
+  top: 384px;
+  left: 124px;
+  background-color: transparent;
+  border: 1px solid var(--color-white);
+  box-sizing: border-box;
+  width: 278px;
+  height: 79px;
+}
+.image-2-icon,
+.rectangle-icon {
+  position: absolute;
+  top: 747.2px;
+  left: 1189.84px;
+  width: 348.16px;
+  height: 876.19px;
+  object-fit: cover;
+}
+.rectangle-icon {
+  top: 1765px;
+  left: 0;
+  width: 1538px;
+  height: 243px;
+}
+.recipes1,
+.winter-salads {
+  position: absolute;
+  top: 24px;
+  left: 1px;
+  display: flex;
+  align-items: center;
+  width: 72px;
+  height: 36px;
+}
+.winter-salads {
+  top: 53px;
+  width: 126px;
+}
+.beef-and-mutton,
+.contact-us,
+.faq,
+.flavoured-milk,
+.organic-chicken {
+  position: absolute;
+  top: 120px;
+  left: 0;
+  display: flex;
+  align-items: center;
+  width: 144px;
+}
+.contact-us,
+.faq,
+.flavoured-milk,
+.organic-chicken {
+  top: 152px;
+  left: 2px;
+}
+.contact-us,
+.faq,
+.organic-chicken {
+  top: 83px;
+  width: 139px;
+  height: 36px;
+}
+.contact-us,
+.faq {
+  top: 24px;
+  left: 216px;
+  width: 95px;
+}
+.contact-us {
+  top: 53px;
+  width: 182px;
+}
+.about-us,
+.fresh-recipe {
+  position: absolute;
+  top: 0;
+  left: 1px;
+  font-size: var(--font-size-xl);
+  font-weight: 500;
+  text-align: center;
+}
+.about-us {
+  left: 216px;
+}
+.all-rights-reserved,
+.recipes-group {
+  position: absolute;
+  color: var(--color-white);
+  text-align: left;
+}
+.recipes-group {
+  top: 1791px;
+  left: 460px;
+  width: 398px;
+  height: 170px;
+  font-size: var(--font-size-mini);
+}
+.all-rights-reserved {
+  top: 1898px;
+  left: 87px;
+  font-size: var(--font-size-xl);
+}
+.ingredient-1 {
+  position: absolute;
+  top: 824px;
+  left: 469px;
+  font-family: var(--font-montez);
+  text-align: left;
+}
+.rectangle-input {
+  border: 1px solid var(--color-yellowgreen);
+  background-color: var(--color-white);
+  position: absolute;
+  top: 866px;
+  left: 455px;
+  border-radius: var(--br-xl);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  box-sizing: border-box;
+  width: 187px;
+  height: 37px;
+}
+.ingredient-4 {
+  position: absolute;
+  top: 1289px;
+  left: 468px;
+  font-family: var(--font-montez);
+  text-align: left;
+}
+.food-factory-child7 {
+  border: 1px solid var(--color-yellowgreen);
+  background-color: var(--color-white);
+  position: absolute;
+  top: 1331px;
+  left: 454px;
+  border-radius: var(--br-xl);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  box-sizing: border-box;
+  width: 187px;
+  height: 37px;
+}
+.number-of-people {
+  position: absolute;
+  top: 1469px;
+  left: 567px;
+  font-family: var(--font-montez);
+  text-align: left;
+}
+.food-factory-child8 {
+  border: 1px solid var(--color-yellowgreen);
+  background-color: var(--color-white);
+  position: absolute;
+  top: 1513px;
+  left: 629px;
+  border-radius: var(--br-xl);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  box-sizing: border-box;
+  width: 193px;
+  height: 45px;
+}
+.ingredient-2 {
+  position: absolute;
+  top: 978px;
+  left: 468px;
+  font-family: var(--font-montez);
+  text-align: left;
+}
+.food-factory-child9 {
+  border: 1px solid var(--color-yellowgreen);
+  background-color: var(--color-white);
+  position: absolute;
+  top: 1020px;
+  left: 454px;
+  border-radius: var(--br-xl);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  box-sizing: border-box;
+  width: 187px;
+  height: 37px;
+}
+.ingredient-3 {
+  position: absolute;
+  top: 1125px;
+  left: 468px;
+  font-family: var(--font-montez);
+  text-align: left;
+}
+.food-factory-child10 {
+  border: 1px solid var(--color-yellowgreen);
+  background-color: var(--color-white);
+  position: absolute;
+  top: 1167px;
+  left: 454px;
+  border-radius: var(--br-xl);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  box-sizing: border-box;
+  width: 187px;
+  height: 37px;
+}
+.quantity {
+  position: absolute;
+  top: 824px;
+  left: 815px;
+  font-family: var(--font-montez);
+  text-align: left;
+}
+.food-factory-child11 {
+  border: 1px solid var(--color-yellowgreen);
+  background-color: var(--color-white);
+  position: absolute;
+  top: 866px;
+  left: 801px;
+  border-radius: var(--br-xl);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  box-sizing: border-box;
+  width: 187px;
+  height: 37px;
+}
+.quantity1 {
+  position: absolute;
+  top: 1289px;
+  left: 814px;
+  font-family: var(--font-montez);
+  text-align: left;
+}
+.food-factory-child12 {
+  border: 1px solid var(--color-yellowgreen);
+  background-color: var(--color-white);
+  position: absolute;
+  top: 1331px;
+  left: 800px;
+  border-radius: var(--br-xl);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  box-sizing: border-box;
+  width: 187px;
+  height: 37px;
+}
+.quantity2 {
+  position: absolute;
+  top: 978px;
+  left: 814px;
+  font-family: var(--font-montez);
+  text-align: left;
+}
+.food-factory-child13 {
+  border: 1px solid var(--color-yellowgreen);
+  background-color: var(--color-white);
+  position: absolute;
+  top: 1020px;
+  left: 800px;
+  border-radius: var(--br-xl);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  box-sizing: border-box;
+  width: 187px;
+  height: 37px;
+}
+.quantity3 {
+  position: absolute;
+  top: 1125px;
+  left: 814px;
+  font-family: var(--font-montez);
+  text-align: left;
+}
+.food-factory-child14 {
+  border: 1px solid var(--color-yellowgreen);
+  background-color: var(--color-white);
+  position: absolute;
+  top: 1167px;
+  left: 800px;
+  border-radius: var(--br-xl);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  box-sizing: border-box;
+  width: 187px;
+  height: 37px;
+}
+.rectangle-button {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 1415px;
+  left: 462px;
+  border-radius: 3px;
+  width: 13px;
+  height: 14px;
+  background-image: url(/public/rectangle-58@2x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.images-1-icon,
+.images-2-icon {
+  position: absolute;
+  top: 26px;
+  left: 58px;
+  width: 112px;
+  height: 106px;
+  object-fit: cover;
+}
+.images-2-icon {
+  top: 1790px;
+  left: 137px;
+  width: 95px;
+  height: 95px;
+}
+.shopping-cart-icon {
+  position: relative;
+  width: 20px;
+  height: 20px;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: none;
+}
+.button1 {
+  position: relative;
+  font-size: 18px;
+  font-family: var(--font-abeezee);
+  color: var(--color-white);
+  text-align: center;
+}
+.button {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-base) var(--padding-xl);
+  background-color: var(--color-forestgreen);
+  position: absolute;
+  top: 1610px;
+  left: 642px;
+  border-radius: var(--br-5xs);
+  width: 167px;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-xs);
+}
+.food-factory {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1983px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-11xl);
+  color: var(--color-black);
+  font-family: var(--font-montserrat);
+}

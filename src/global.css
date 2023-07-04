@@ -1,0 +1,48 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Montez:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=IcoFont:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Mina:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=ABeeZee:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Abhaya+Libre:wght@700&display=swap");
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --font-abeezee: ABeeZee;
+  --font-montez: Montez;
+  --font-montserrat: Montserrat;
+  --font-mina: Mina;
+  --font-icofont: IcoFont;
+  --font-inherit: inherit;
+  --font-abhaya-libre: "Abhaya Libre";
+
+  /* font sizes */
+  --font-size-11xl: 30px;
+  --font-size-xl: 20px;
+  --font-size-mini: 15px;
+  --font-size-31xl: 50px;
+  --font-size-3xs: 10px;
+  --font-size-17xl: 36px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-forestgreen: #509e2f;
+  --color-yellowgreen: #84bd00;
+  --color-black: #000;
+  --color-gainsboro-100: #d9d9d9;
+  --color-darkslategray-100: rgba(60, 66, 66, 0.9);
+
+  /* Gaps */
+  --gap-xs: 12px;
+
+  /* Paddings */
+  --padding-base: 16px;
+  --padding-xl: 20px;
+  --padding-29xl: 48px;
+
+  /* border radiuses */
+  --br-5xs: 8px;
+  --br-xl: 20px;
+}
